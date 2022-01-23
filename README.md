@@ -1,4 +1,7 @@
 # pytorch-classification-advprop
+
+<big>**In [this repository](https://github.com/meijieru/fast_advprop), there will be an implementation of Fast AdvProp by Jieru Mei, which is accepted by ICLR 2022.** </big>
+
 A PyTorch implementation of CVPR2020 paper Adversarial examples improve image recognition by Xie C, Tan M, Gong B, et al. 
 
 Thanks for guidance from Cihang Xie and Yingwei Li. The code is adapted from https://github.com/bearpaw/pytorch-classification.
